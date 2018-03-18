@@ -1,0 +1,45 @@
+/* body {
+    background-color: black;
+}
+
+
+.teg {
+    color:green;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;  
+}
+.name {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    
+   justify-content: center;
+   margin: 225px;
+   margin-right: 135px;
+}
+
+.blue {
+    color:white;
+} */
+
+/* ==================================== */
+
+
+body {
+    background: black;
+}
+
+#lineDrawing {
+    color: blueviolet;
+}
+
+
+.foot {
+    display: flex;
+    justify-content: center;
+    color: gray;
+    padding-top:85px;
+    font-size: 15px; 
+}
